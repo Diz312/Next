@@ -1,0 +1,5 @@
+# backend/config.yaml
+
+# Specify any file paths here. 
+# IMPORTANT: The variables need to have the word PATH in the name and are relative to the project root  
+# The config_loader.py file will resolve these paths to fully qualified paths
